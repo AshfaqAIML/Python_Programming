@@ -1,10 +1,10 @@
 
 
----
+
 
 ### 📁 Module 5 – `README.md`
 
-```markdown
+
 # Module 5: Lists in Python
 
 **Duration:** 1h 19m · **Lectures:** 6
