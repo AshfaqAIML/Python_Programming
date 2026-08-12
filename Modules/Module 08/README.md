@@ -1,6 +1,6 @@
 ### 📁 Module 8 – `README.md`
 
-```markdown
+
 # Module 8: Loops
 
 **Duration:** 2h 57m · **Lectures:** 15
