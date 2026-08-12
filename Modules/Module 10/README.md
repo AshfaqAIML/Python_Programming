@@ -1,7 +1,7 @@
 
 ### 📁 Module 10 – `README.md`
 
-```markdown
+
 # Module 10: File Handling & Exception Handling
 
 **Duration:** 2h 44m · **Lectures:** 14
