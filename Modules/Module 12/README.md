@@ -3,7 +3,7 @@
 
 ### 📁 Module 12 – `README.md`
 
-```markdown
+
 # Module 12: Object Oriented Programming (OOP)
 
 **Duration:** 4h 55m · **Lectures:** 24
