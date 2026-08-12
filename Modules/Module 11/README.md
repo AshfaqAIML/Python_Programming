@@ -1,7 +1,7 @@
 
 ### 📁 Module 11 – `README.md`
 
-```markdown
+
 # Module 11: Regular Expressions (RegEx)
 
 **Duration:** 2h 1m · **Lectures:** 9
