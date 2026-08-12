@@ -1,8 +1,6 @@
----
 
 ### 📁 Module 9 – `README.md`
 
-```markdown
 # Module 9: Functions & Modules
 
 **Duration:** 3h 34m · **Lectures:** 16
