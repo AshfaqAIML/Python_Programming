@@ -3,7 +3,7 @@
 
 ### 📁 Module 13 – `README.md`
 
-```markdown
+
 # Module 13: Tkinter – GUI Development
 
 **Duration:** 2h 51m · **Lectures:** 12
