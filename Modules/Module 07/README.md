@@ -1,7 +1,6 @@
 
 ### 📁 Module 7 – `README.md`
 
-```markdown
 # Module 7: Control Statements
 
 **Duration:** 47m 40s · **Lectures:** 5
@@ -109,5 +108,4 @@ result = "Even" if num % 2 == 0 else "Odd"
 *Proceed to Module 8: Loops for repetitive execution.*
 ```
 
----
 
