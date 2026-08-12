@@ -1,6 +1,6 @@
 ### 📁 Module 6 – `README.md`
 
-```markdown
+
 # Module 6: Tuples, Sets & Dictionaries
 
 **Duration:** 2h 59m · **Lectures:** 12
@@ -100,4 +100,3 @@ d2 = copy.deepcopy(d)   # completely independent copy
 *Next: Module 7 – Control Statements.*
 ```
 
----
